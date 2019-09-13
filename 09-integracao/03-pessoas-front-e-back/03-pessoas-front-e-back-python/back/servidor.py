@@ -41,12 +41,14 @@ exemplo de retorno:
       "id": 1, 
       "nome": "Joao da Silva", 
       "telefone": "3541-1230"
+      "email": "joao.silva@gmail.com"
     }, 
     {
       "endereco": "Casa 9", 
       "id": 2, 
       "nome": "Joao da Silva", 
       "telefone": "3541-1230"
+      "email": "joao.s@gmail.com"
     }
   ]
 }
